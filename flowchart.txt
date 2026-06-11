@@ -1,0 +1,17 @@
+Mulai
+  ↓
+Inisialisasi x1 = 0, x2 = 0, x3 = 0
+  ↓
+Hitung x1 baru
+  ↓
+Hitung x2 baru
+  ↓
+Hitung x3 baru
+  ↓
+Hitung Error
+  ↓
+Error < Toleransi?
+ ├── Ya → Tampilkan Hasil
+ └── Tidak → Ulangi Iterasi
+  ↓
+Selesai
